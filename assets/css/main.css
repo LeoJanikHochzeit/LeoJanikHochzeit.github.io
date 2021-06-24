@@ -1357,7 +1357,7 @@ input, select, textarea {
 			}
 
 			.poptrox-popup .caption {
-				overflow-y: scroll;
+				overflow: scroll;
 				height: 100%;
 			}
 
